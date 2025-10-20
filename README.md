@@ -27,7 +27,7 @@ A mobile-responsive, AI-powered resume checker analyzing resumes through 16 crit
 
 🎥 Live Demo
 Try it live here:
-https://kiranravi80.github.io/AI-ATS-Resume-Checker/
+https://resumecheckats.netlify.app/
 
 📁 Project Structure
 
